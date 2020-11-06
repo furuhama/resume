@@ -1,5 +1,11 @@
 # 職務経歴書
 
+## 個人データ
+
+- 氏名: 古濱 有佑 (Furuhama Yusuke)
+- GitHub ID: furuhama
+- web: https://furuhama.github.io
+
 ## 概要
 
 - エンジニアとして 3 年の実務経験があります

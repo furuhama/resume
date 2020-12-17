@@ -90,9 +90,21 @@
 
 - https://furuhama.github.io
 
+### スライド
+
+- [マネーフォワードの Rails プロダクト群を支え、 同時にくっついてなかなか離してくれない共有リソースとの向き合い方](https://speakerdeck.com/furuhama/manehuowadofalse-rails-purodakutoqun-wozhi-e-tong-shi-nikututuitenakanakali-sitekurenaigong-you-risosutofalsexiang-kihe-ifang)
+
 ### イベント
 
 - ISUCON10 に参加し Ruby を利用して予選を 7 位で通過しました
     - https://furuhama.github.io/2020/09/13/isucon10-qualify.html
 - オンライン開催【シューマイ】Tech Lead Engineerから最新技術を学べ！Rails編 で LT を行いました
     - https://shuuu-mai.connpass.com/event/191008/
+
+### 会社ブログ
+
+- [さくっと各サービスのライブラリのバージョンを見ようの巻](https://moneyforward.com/engineers_blog/2020/12/10/quick-version-check/)
+- インタビューしていただいた記事 [【公開1on1】新卒3年目のエンジニアがサービス横断的なチームを運営するまでを師匠と振り返ってみる](https://note.com/keitanaka_mf/n/n054245833e1d)
+- [未経験からエンジニアになった新卒2年目の僕が中学生エンジニアのメンターにチャレンジした話。](https://www.wantedly.com/companies/moneyforward/post_articles/166537)
+- [新卒が絶対にサンタさんに来てもらうために Rails バージョンアップを頑張った話](https://moneyforward.com/engineers_blog/2018/12/11/rails-version-up/)
+- インタビューしていただいた記事 [戦略設計も行うMF KESSAIインターンの座談会](https://www.wantedly.com/companies/moneyforward/post_articles/71801)

@@ -96,10 +96,8 @@
 
 ### イベント
 
-- ISUCON10 に参加し Ruby を利用して予選を 7 位で通過しました
-    - https://furuhama.github.io/2020/09/13/isucon10-qualify.html
-- オンライン開催【シューマイ】Tech Lead Engineerから最新技術を学べ！Rails編 で LT を行いました
-    - https://shuuu-mai.connpass.com/event/191008/
+- [ISUCON10 に参加し Ruby を利用して予選を 7 位で通過しました](https://furuhama.github.io/2020/09/13/isucon10-qualify.html)
+- [オンライン開催【シューマイ】Tech Lead Engineerから最新技術を学べ！Rails編](https://shuuu-mai.connpass.com/event/191008/) で LT を行いました
 
 ### 会社ブログ
 

@@ -88,7 +88,7 @@
 
 ### ブログ
 
-- https://furuhama.github.io
+- [バベルの図書館は完成しない](https://furuhama.github.io)
 
 ### スライド
 

@@ -101,6 +101,7 @@
 
 ### 会社ブログ
 
+- [インフラ留学を糧に理想の開発を目指して組織を作るまでの話(Plus Ops でこんにちは)](https://moneyforward.com/engineers_blog/2020/12/28/infra-study-abroad/)
 - [さくっと各サービスのライブラリのバージョンを見ようの巻](https://moneyforward.com/engineers_blog/2020/12/10/quick-version-check/)
 - インタビューしていただいた記事 [【公開1on1】新卒3年目のエンジニアがサービス横断的なチームを運営するまでを師匠と振り返ってみる](https://note.com/keitanaka_mf/n/n054245833e1d)
 - [未経験からエンジニアになった新卒2年目の僕が中学生エンジニアのメンターにチャレンジした話。](https://www.wantedly.com/companies/moneyforward/post_articles/166537)

@@ -3,8 +3,10 @@
 ## 個人データ
 
 - 氏名: 古濱 有佑 (Furuhama Yusuke)
-- GitHub ID: furuhama
-- web: https://furuhama.github.io
+- GitHub ID: [furuhama](https://github.com/furuhama)
+- Twitter ID: [_furuhama](https://twitter.com/_furuhama)
+- Wantedly ID: [furuhama](https://www.wantedly.com/id/furuhama)
+- blog: [バベルの図書館は完成しない](https://furuhama.github.io)
 
 ## 概要
 

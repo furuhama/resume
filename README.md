@@ -138,6 +138,7 @@
 
 ### 会社ブログ
 
+- インタビューしていただいた記事 [ビジョンと好奇心を持って課題解決を楽しむ。新卒からCTOになった僕たち](https://note.com/mf_recruitment/n/n83351aa88ca4)
 - インタビューしていただいた記事 [2022年2月、クラビスは新しい経営体制へ ～これからのクラビスが描く未来と成長～](https://note.com/klavis/n/n9cb4372ea404)
 - [インフラ留学を糧に理想の開発を目指して組織を作るまでの話(Plus Ops でこんにちは)](https://moneyforward.com/engineers_blog/2020/12/28/infra-study-abroad/)
 - [さくっと各サービスのライブラリのバージョンを見ようの巻](https://moneyforward.com/engineers_blog/2020/12/10/quick-version-check/)
